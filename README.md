@@ -49,8 +49,8 @@ To become a skilled software engineer with strong knowledge of backend developme
 ---
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo2004-g&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mo2004-g&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo2004-g&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mo2004-g&layout=compact&theme=tokyonight&hide_border=true)
 ---
 ⭐ Thanks for visiting my profile!
